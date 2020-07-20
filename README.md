@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning MongoDB.
 - 💬 Ask me about python, machine learning
 - I write blog post related to machine learning on Medium - [@taunkdhaval08](https://medium.com/@taunkdhaval08)
-- You can visit my kaggle profile on 
-
+- LinkedIn profile - [@dhavaltaunk08](https://linkedin.com/in/dhavaltaunk08/)
+- Kaggle profile - [@dhavaltaunk](https://www.kaggle.com/dhavaltaunk)
