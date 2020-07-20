@@ -7,4 +7,5 @@
 - 🔭 I’m currently working on machine learning, deep learning.
 - 🌱 I’m currently learning MongoDB.
 - 💬 Ask me about python, machine learning
+- I write blog post related to machine learning on Medium - https://medium.com/@taunkdhaval08
 
