@@ -3,7 +3,7 @@
 <!--
 **DhavalTaunk08/DhavalTaunk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I work as Assistant Manager (Data Science) at Yes Bank
+- I work as a Data Scientist at Yes Bank
 - I’m currently working on machine learning, deep learning.
 - I’m currently learning MongoDB.
 - Ask me about python, machine learning
