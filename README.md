@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [BERT — Pre-training + Fine-tuning](https://medium.com/@taunkdhaval08/bert-pre-training-fine-tuning-eb574be614f6?source=rss-a8e9132e2784------2)
+- [BERT — Pre-training + Fine-tuning](https://medium.com/analytics-vidhya/bert-pre-training-fine-tuning-eb574be614f6?source=rss-a8e9132e2784------2)
 - [Search Engine in Python from scratch](https://medium.com/analytics-vidhya/search-engine-in-python-from-scratch-c3f7cc453250?source=rss-a8e9132e2784------2)
 - [Finetune DistilBERT for multi-label text classsification task](https://medium.com/analytics-vidhya/finetune-distilbert-for-multi-label-text-classsification-task-994eb448f94c?source=rss-a8e9132e2784------2)
 - [NLP Preprocessing:- A useful and important step](https://medium.com/analytics-vidhya/nlp-preprocessing-a-useful-and-important-step-e79895c65a89?source=rss-a8e9132e2784------2)
